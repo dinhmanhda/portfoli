@@ -4,11 +4,11 @@
 
 ## Thông tin sinh viên
 
-- Họ và tên: [ Lỗ Văn Tuấn ]
-- Mã sinh viên – Lớp: [ 1771020716 - CNTT17-08 ]
-- Ngày thực hiện: [30/10/2026 ]
-- Link repository: [ https://github.com/tuan1143/K20_Portfolio_CNTT20_02.git ]
-- URL website: [ https://tuan1143.github.io/K20_Portfolio_CNTT20_02/ ]
+- Họ và tên: [ Đinh Mạnh Đà ]
+- Mã sinh viên – Lớp: [ 1771020716 - CNTT17-10 ]
+- Ngày thực hiện: [09/07/2026 ]
+- Link repository: [ https://github.com/dinhmanhda/portfoli.git ]
+- URL website: [ https://github.com/dinhmanhda/portfoli.git ]
 - Tình huống: [ ] Website của tôi  [ ] Repo luyện của giảng viên
 
 ## 1. Nhận định của tôi trước khi hỏi AI
