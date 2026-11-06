@@ -25,14 +25,14 @@
 - Câu hỏi/prompt tôi đã gửi (hoặc tình huống của phản hồi mẫu):
 
   [ PROMPT MẪU
-Tôi có URL [https://tuan1143.github.io/K20_Portfolio_CNTT20_02/], cấu trúc [K20_Portfolio_CNTT20_02/
+Tôi có URL [https://github.com/dinhmanhda/portfoli.git], cấu trúc [K20_Portfolio_CNTT20_02/
 ├── index.html
 ├── about.html
 ├── assets/
 │   └── css/
 │       └── style.css
 └── js/].
-Network: Request URL [https://github.com/tuan1143/K20_Portfolio_CNTT20_02.git], Status [404].
+Network: Request URL [https://github.com/dinhmanhda/portfoli.git], Status [404].
 Tôi dự đoán [Đường dẫn import/link đến tệp CSS bị sai].
 Hãy nêu giả thuyết, dữ kiện cần kiểm tra và bản sửa tối thiểu.
 Chỉ tư vấn, không sửa tệp. Không kết luận đã sửa thành công. ]
@@ -62,8 +62,8 @@ Chỉ tư vấn, không sửa tệp. Không kết luận đã sửa thành công
 | Request URL và Status của tài nguyên liên quan | [ Status: 404 Not Found ] | [ Status: 200 OK ] |
 | Giao diện/chức năng trên URL website | [ Trang giới thiệu mất toàn bộ CSS, hiển thị dạng văn bản thuần túy, vỡ bố cục. ] | [ Giao diện hiển thị đầy đủ màu sắc, định dạng, bố cục chuẩn chỉnh theo thiết kế. ] |
 
-- Cách thử lại và kết quả thực tế: [ Commit và push code lên GitHub, chờ GitHub Pages cập nhật, sau đó mở lại trang [https://tuan1143.github.io/K20_Portfolio_CNTT20_02/about.html](https://tuan1143.github.io/K20_Portfolio_CNTT20_02/about.html), nhấn F12 kiểm tra tab Network thấy file style.css tải thành công (Status 200) và giao diện đã load style đầy đủ. ]
-- Căn cứ để đối chiếu (URL tệp, commit, đường dẫn ảnh chụp hoặc dữ kiện quan sát): [ Lịch sử commit trên GitHub repository tuan1143/K20_Portfolio_CNTT20_02 và trạng thái build thành công trên GitHub Pages. ]
+- Cách thử lại và kết quả thực tế: [ Commit và push code lên GitHub, chờ GitHub Pages cập nhật, sau đó mở lại trang [https://github.com/dinhmanhda/portfoli/about.html](https://github.com/dinhmanhda/portfoli/about.html), nhấn F12 kiểm tra tab Network thấy file style.css tải thành công (Status 200) và giao diện đã load style đầy đủ. ]
+- Căn cứ để đối chiếu (URL tệp, commit, đường dẫn ảnh chụp hoặc dữ kiện quan sát): [ Lịch sử commit trên GitHub repository https://github.com/dinhmanhda/portfoli và trạng thái build thành công trên GitHub Pages. ]
 
 ## 5. Kết luận
 
